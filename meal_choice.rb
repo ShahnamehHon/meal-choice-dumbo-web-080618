@@ -1,5 +1,3 @@
-require 'pry'
-
 def meal_choice(x="meat")
 end
 return meal_choice("vegan")
