@@ -1,4 +1,5 @@
 def meal_choice(meat="meat")
+  meat
 end
 meal_choice("vegan")
 # Define a method meal_choice that returns the meal_choice that was
